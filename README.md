@@ -68,7 +68,7 @@ Cada banco possui sua própria fábrica, responsável por criar seus métodos de
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/beatrizpratessantos/Projeto-1.git
 ```
 
 2. Compile os arquivos:
